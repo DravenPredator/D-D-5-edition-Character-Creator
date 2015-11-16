@@ -1,2 +1,2 @@
-# SoftwareEngineering
-D&amp;D 5 Edition Character Creator
+# D&D 5th Edition Character Creator
+Project for Software Engineering Class
